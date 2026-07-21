@@ -104,3 +104,6 @@ Open the console at **http://localhost:8080** and watch documents move through
 | Frontend (Vite dev) | http://localhost:5173 |
 | Backend API | http://localhost:3000 |
 | MongoDB | external — MongoDB Atlas (`MONGO_URI`) |
+
+## Video Demo
+https://www.youtube.com/watch?v=UvaYKLWepFM
